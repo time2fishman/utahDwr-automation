@@ -89,6 +89,94 @@ module.exports = {
         subscribeToNewsUpdates: {
             selector: '//*[@id="mainnavmenu"]/ul/li[2]/div/ul/li[5]/a/span',
             locateStrategy: 'xpath'
+        },
+        fishingInformation: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[1]/a/span',
+            locateStrategy: 'xpath'
+        },
+        fishingLicenses: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[2]/a/span',
+            locateStrategy: 'xpath'
+        },
+        stockingReports: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[3]/a/span',
+            locateStrategy: 'xpath'
+        },
+        fishingReports: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[4]/a/span',
+            locateStrategy: 'xpath'
+        },
+        communityFisheries: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[5]/a/span',
+            locateStrategy: 'xpath'
+        },
+        blueRibbonFisheries: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[6]/a/span',
+            locateStrategy: 'xpath'
+        },
+        guidebooksAndRulesFishing: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[7]/a/span',
+            locateStrategy: 'xpath'
+        },
+        lawEnforcementFishing: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[8]/a/span',
+            locateStrategy: 'xpath'
+        },
+        wildlifeBoardAndRacFishing: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[9]/a/span',
+            locateStrategy: 'xpath'
+        },
+        walkInAccessFishing: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[3]/div/ul/li[10]/a/span',
+            locateStrategy: 'xpath'
+        },
+        huntingInformation: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[1]/a/span',
+            locateStrategy: 'xpath'
+        },
+        huntingPermits: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[2]/a/span',
+            locateStrategy: 'xpath'
+        },
+        guidebooksAndRulesHunting: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[3]/a/span',
+            locateStrategy: 'xpath'
+        },
+        huntPlanner: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[4]/a/span',
+            locateStrategy: 'xpath'
+        },
+        dedicatedHunters: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[5]/a/span',
+            locateStrategy: 'xpath'
+        },
+        hunterEducation: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[6]/a/span',
+            locateStrategy: 'xpath'
+        },
+        huntBoundaryMaps: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[7]/a/span',
+            locateStrategy: 'xpath'
+        },
+        harvestReporting: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[8]/a/span',
+            locateStrategy: 'xpath'
+        },
+        lawEnforcementHunting: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[9]/a/span',
+            locateStrategy: 'xpath'
+        },
+        wildlifeBoardAndRacHunting: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[10]/a/span',
+            locateStrategy: 'xpath'
+        },
+        walkInAccessHunting: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[11]/a/span',
+            locateStrategy: 'xpath'
+        },
+        coyotes: {
+            selector: '//*[@id="mainnavmenu"]/ul/li[4]/div/ul/li[1]/div/ul/li[1]/a/span',
+            locateStrategy: 'xpath'
         }
 
 

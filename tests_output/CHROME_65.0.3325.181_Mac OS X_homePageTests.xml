@@ -5,9 +5,97 @@
 
   <testsuite name="homePageTests"
     errors="0" failures="0" hostname="" id="" package="homePageTests" skipped="0"
-    tests="1" time="14.28" timestamp="Wed, 11 Apr 2018 17:16:14 GMT">
+    tests="1" time="24.77" timestamp="Thu, 12 Apr 2018 17:29:01 GMT">
   
-    <testcase name="Basic UI check for constant elements to be present and for text to equal what it should" classname="homePageTests" time="14.28" assertions="43">
+    <testcase name="Basic UI check for constant elements to be present and for text to equal what it should" classname="homePageTests" time="24.77" assertions="87">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 

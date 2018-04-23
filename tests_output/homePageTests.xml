@@ -5,9 +5,9 @@
 
   <testsuite name="homePageTests"
     errors="1" failures="0" hostname="" id="" package="homePageTests" skipped="0"
-    tests="1" time="0.04700" timestamp="Wed, 11 Apr 2018 17:14:55 GMT">
+    tests="1" time="0.07700" timestamp="Thu, 12 Apr 2018 17:27:33 GMT">
   
-    <testcase name="Basic UI check for constant elements to be present and for text to equal what it should" classname="homePageTests" time="0.04700" assertions="0">
+    <testcase name="Basic UI check for constant elements to be present and for text to equal what it should" classname="homePageTests" time="0.07700" assertions="0">
     </testcase>
   
 
@@ -15,8 +15,8 @@
     <system-err>
         Error while running [Home Page Tests / Basic UI check for constant elements to be present and for text to equal what it should]:
 
-  TypeError: homePage.assert.visible(...).expect.element(...).text.to.equal(...).assert.visible is not a function
-    at Object.uiFunc (/Users/AdamandStacyMartinez/Desktop/utahDwr-automation/nightwatch/test_assets/functions.js:54:21)
+  ReferenceError: homepage is not defined
+    at Object.uiFunc (/Users/AdamandStacyMartinez/Desktop/utahDwr-automation/nightwatch/test_assets/functions.js:121:9)
     at Object.Basic UI check for constant elements to be present and for text to equal what it should (/Users/AdamandStacyMartinez/Desktop/utahDwr-automation/nightwatch/tests/homePageTests.js:13:19)
     at Module.call (/usr/local/lib/node_modules/nightwatch/lib/runner/module.js:62:34)
     at /usr/local/lib/node_modules/nightwatch/lib/runner/testcase.js:70:29
